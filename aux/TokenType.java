@@ -12,7 +12,6 @@ public enum TokenType {
     PRCLASS,
     PRIMPL,
     PRELSE,
-    PRFALSE,
     PRIF,
     PRRET,
     PRWHILE,
